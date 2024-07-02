@@ -1,8 +1,12 @@
 Group 6 - Simple Quiz Game
 Diaz, Jeremy
+
 Gonzaga, John Paul
+
 Mananquil, John Ichiro
+
 Perea, Francesca Elleine
+
 Responso, John Carlo
 
 ![image](https://github.com/John-Ichi/Simple-Quiz-Game---Java-AWT/assets/140050918/035acb9d-6419-4242-8f45-06be91bac431)
