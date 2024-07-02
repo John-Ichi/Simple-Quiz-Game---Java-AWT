@@ -1,14 +1,14 @@
 Group 6 - Simple Quiz Game
 
-Diaz, Jeremy
-
-Gonzaga, John Paul
-
-Mananquil, John Ichiro
-
-Perea, Francesca Elleine
-
-Responso, John Carlo
+    Diaz, Jeremy
+    
+    Gonzaga, John Paul
+    
+    Mananquil, John Ichiro
+    
+    Perea, Francesca Elleine
+    
+    Responso, John Carlo
 
 Instruction:
 
